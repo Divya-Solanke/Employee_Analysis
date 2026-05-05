@@ -3,4 +3,5 @@ I have created a dashboard using Microsoft Powerbi which helps to analyse real-t
 <a href = "https://github.com/Divya-Solanke/Employee_Analysis/blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv"/>Dataset</a>
 Employee dataset analyses Dashboard
 <a href = "https://github.com/Divya-Solanke/Employee_Analysis/blob/main/Employee_dashboard.pbix"/>Dashboard</a>
+<a href = "https://github.com/Divya-Solanke/Employee_Analysis/blob/main/ss1.png"/>Dashboard1</a>
 
